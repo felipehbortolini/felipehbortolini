@@ -1,0 +1,155 @@
+<svg width="1200" height="680" viewBox="0 0 1200 680" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Felipe Hering Bortolini — Fullstack Developer</title>
+  <desc>Dashboard animado com resumo profissional, tecnologias e estatísticas do portfólio.</desc>
+
+  <rect width="1200" height="680" rx="18" fill="#0B1117"/>
+  <rect x="1" y="1" width="1198" height="678" rx="17" stroke="#263442" stroke-width="2"/>
+
+  <!-- Cabeçalho -->
+  <rect x="34" y="32" width="1132" height="142" rx="12" fill="#101820" stroke="#263442"/>
+
+  <rect x="60" y="58" width="8" height="88" rx="4" fill="#4FA3D1">
+    <animate attributeName="height" values="12;88;52;88" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="94" y="78" fill="#F4C542" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3">
+    FELIPE HERING BORTOLINI
+  </text>
+
+  <text x="94" y="116" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">
+    Fullstack Developer
+  </text>
+
+  <text x="94" y="145" fill="#9AA9B8" font-family="Arial, Helvetica, sans-serif" font-size="15">
+    Tecnologia, planejamento e dados aplicados à indústria
+  </text>
+
+  <text x="1085" y="84" text-anchor="end" fill="#7DD3A7" font-family="monospace" font-size="13">
+    SYSTEM.STATUS
+  </text>
+
+  <circle cx="1100" cy="111" r="5" fill="#7DD3A7">
+    <animate attributeName="r" values="4;7;4" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="1085" y="117" text-anchor="end" fill="#7DD3A7" font-family="monospace" font-size="15">
+    ONLINE
+  </text>
+
+  <text x="1085" y="143" text-anchor="end" fill="#627384" font-family="monospace" font-size="12">
+    BUILDING_USEFUL_SYSTEMS
+  </text>
+
+  <!-- Descrição -->
+  <rect x="34" y="198" width="1132" height="86" rx="12" fill="#101820" stroke="#263442"/>
+
+  <text x="60" y="228" fill="#4FA3D1" font-family="monospace" font-size="13">
+    ABOUT.ME
+  </text>
+
+  <text x="60" y="253" fill="#D9E2EC" font-family="Arial, Helvetica, sans-serif" font-size="14">
+    Fullstack development, industrial planning, business intelligence and process automation
+  </text>
+
+  <text x="60" y="274" fill="#8FA1B2" font-family="Arial, Helvetica, sans-serif" font-size="13">
+    Pulp &amp; paper · Mining · Steel · Primavera P6 · Microsoft Project · Power BI
+  </text>
+
+  <!-- Estatísticas -->
+  <rect x="34" y="308" width="250" height="116" rx="12" fill="#101820" stroke="#263442"/>
+  <text x="58" y="340" fill="#8FA1B2" font-family="monospace" font-size="12">TOTAL_REPOSITORIES</text>
+  <text x="58" y="388" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700">56</text>
+  <text x="161" y="388" fill="#7DD3A7" font-family="monospace" font-size="13">PROJECTS</text>
+
+  <rect x="302" y="308" width="250" height="116" rx="12" fill="#101820" stroke="#263442"/>
+  <text x="326" y="340" fill="#8FA1B2" font-family="monospace" font-size="12">MAIN_DOMAIN</text>
+  <text x="326" y="378" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Power BI</text>
+  <text x="326" y="400" fill="#F4C542" font-family="monospace" font-size="13">40 REPOSITORIES</text>
+
+  <rect x="570" y="308" width="250" height="116" rx="12" fill="#101820" stroke="#263442"/>
+  <text x="594" y="340" fill="#8FA1B2" font-family="monospace" font-size="12">WEB_STACK</text>
+  <text x="594" y="378" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">HTML · CSS · JS</text>
+  <text x="594" y="400" fill="#4FA3D1" font-family="monospace" font-size="13">53 PROJECTS</text>
+
+  <rect x="838" y="308" width="328" height="116" rx="12" fill="#101820" stroke="#263442"/>
+  <text x="862" y="340" fill="#8FA1B2" font-family="monospace" font-size="12">INDUSTRIAL_FOCUS</text>
+  <text x="862" y="378" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Planning + Data</text>
+  <text x="862" y="400" fill="#7DD3A7" font-family="monospace" font-size="13">CONNECTED_OPERATIONS</text>
+
+  <!-- Gráfico por tipo -->
+  <rect x="34" y="450" width="552" height="196" rx="12" fill="#101820" stroke="#263442"/>
+
+  <text x="60" y="480" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">
+    Repositórios por tipo
+  </text>
+
+  <text x="60" y="511" fill="#8FA1B2" font-family="monospace" font-size="12">POWER BI</text>
+  <rect x="164" y="499" width="360" height="16" rx="3" fill="#1C2A35"/>
+  <rect x="164" y="499" width="360" height="16" rx="3" fill="#4FA3D1">
+    <animate attributeName="width" from="0" to="360" dur="1.2s" fill="freeze"/>
+  </rect>
+  <text x="540" y="512" fill="#F1F5F9" font-family="monospace" font-size="12">40</text>
+
+  <text x="60" y="548" fill="#8FA1B2" font-family="monospace" font-size="12">APLICAÇÃO</text>
+  <rect x="164" y="536" width="360" height="16" rx="3" fill="#1C2A35"/>
+  <rect x="164" y="536" width="108" height="16" rx="3" fill="#7DD3A7">
+    <animate attributeName="width" from="0" to="108" dur="1.2s" begin="0.2s" fill="freeze"/>
+  </rect>
+  <text x="540" y="549" fill="#F1F5F9" font-family="monospace" font-size="12">12</text>
+
+  <text x="60" y="585" fill="#8FA1B2" font-family="monospace" font-size="12">WEBSITE</text>
+  <rect x="164" y="573" width="360" height="16" rx="3" fill="#1C2A35"/>
+  <rect x="164" y="573" width="27" height="16" rx="3" fill="#F4C542">
+    <animate attributeName="width" from="0" to="27" dur="1.2s" begin="0.4s" fill="freeze"/>
+  </rect>
+  <text x="540" y="586" fill="#F1F5F9" font-family="monospace" font-size="12">3</text>
+
+  <text x="60" y="622" fill="#8FA1B2" font-family="monospace" font-size="12">AUTOMAÇÃO</text>
+  <rect x="164" y="610" width="360" height="16" rx="3" fill="#1C2A35"/>
+  <rect x="164" y="610" width="9" height="16" rx="3" fill="#D98282">
+    <animate attributeName="width" from="0" to="9" dur="1.2s" begin="0.6s" fill="freeze"/>
+  </rect>
+  <text x="540" y="623" fill="#F1F5F9" font-family="monospace" font-size="12">1</text>
+
+  <!-- Tecnologias -->
+  <rect x="610" y="450" width="556" height="196" rx="12" fill="#101820" stroke="#263442"/>
+
+  <text x="636" y="480" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">
+    Tecnologias identificadas
+  </text>
+
+  <text x="636" y="511" fill="#8FA1B2" font-family="monospace" font-size="12">HTML</text>
+  <rect x="720" y="499" width="350" height="14" rx="3" fill="#1C2A35"/>
+  <rect x="720" y="499" width="350" height="14" rx="3" fill="#4FA3D1">
+    <animate attributeName="width" from="0" to="350" dur="1.4s" fill="freeze"/>
+  </rect>
+  <text x="1090" y="511" fill="#F1F5F9" font-family="monospace" font-size="12">53</text>
+
+  <text x="636" y="543" fill="#8FA1B2" font-family="monospace" font-size="12">CSS</text>
+  <rect x="720" y="531" width="350" height="14" rx="3" fill="#1C2A35"/>
+  <rect x="720" y="531" width="350" height="14" rx="3" fill="#7DD3A7">
+    <animate attributeName="width" from="0" to="350" dur="1.4s" begin="0.15s" fill="freeze"/>
+  </rect>
+  <text x="1090" y="543" fill="#F1F5F9" font-family="monospace" font-size="12">53</text>
+
+  <text x="636" y="575" fill="#8FA1B2" font-family="monospace" font-size="12">JAVASCRIPT</text>
+  <rect x="720" y="563" width="350" height="14" rx="3" fill="#1C2A35"/>
+  <rect x="720" y="563" width="350" height="14" rx="3" fill="#F4C542">
+    <animate attributeName="width" from="0" to="350" dur="1.4s" begin="0.3s" fill="freeze"/>
+  </rect>
+  <text x="1090" y="575" fill="#F1F5F9" font-family="monospace" font-size="12">53</text>
+
+  <text x="636" y="607" fill="#8FA1B2" font-family="monospace" font-size="12">DAX</text>
+  <rect x="720" y="595" width="350" height="14" rx="3" fill="#1C2A35"/>
+  <rect x="720" y="595" width="264" height="14" rx="3" fill="#D98282">
+    <animate attributeName="width" from="0" to="264" dur="1.4s" begin="0.45s" fill="freeze"/>
+  </rect>
+  <text x="1090" y="607" fill="#F1F5F9" font-family="monospace" font-size="12">40</text>
+
+  <text x="636" y="639" fill="#8FA1B2" font-family="monospace" font-size="12">PYTHON</text>
+  <rect x="720" y="627" width="350" height="14" rx="3" fill="#1C2A35"/>
+  <rect x="720" y="627" width="66" height="14" rx="3" fill="#AAB7C4">
+    <animate attributeName="width" from="0" to="66" dur="1.4s" begin="0.6s" fill="freeze"/>
+  </rect>
+  <text x="1090" y="639" fill="#F1F5F9" font-family="monospace" font-size="12">10</text>
+</svg>
